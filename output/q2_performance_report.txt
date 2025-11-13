@@ -1,0 +1,21 @@
+              facility_name provider_id    provider_name  years_experience          specialty
+Cardiology Specialty Center      PR0279      Jamie Jones                11           Oncology
+Cardiology Specialty Center      PR0310  Cameron Johnson                14 Emergency Medicine
+      City General Hospital      PR0106      Avery Jones                 7          Neurology
+      City General Hospital      PR0249   Quinn Martinez                34         Cardiology
+    Community Health Clinic      PR0416      Avery Smith                24         Pediatrics
+    Community Health Clinic      PR0228     Morgan Davis                 9           Oncology
+   Emergency Medical Center      PR0459 Taylor Rodriguez                11         Psychiatry
+   Emergency Medical Center      PR0158   Avery Martinez                39         Psychiatry
+      Northside Urgent Care      PR0266 Taylor Rodriguez                 3         Psychiatry
+      Northside Urgent Care      PR0410   Cameron Miller                 4         Psychiatry
+  Oncology Treatment Center      PR0144   Jordan Johnson                34      Endocrinology
+  Oncology Treatment Center      PR0006   Riley Williams                14      Endocrinology
+      Pediatric Care Center      PR0292    Taylor Wilson                34          Radiology
+      Pediatric Care Center      PR0424    Cameron Davis                22       Primary Care
+        Primary Care Clinic      PR0368     Jamie Garcia                 8       Primary Care
+        Primary Care Clinic      PR0096     Quinn Miller                13           Oncology
+    Regional Medical Center      PR0367        Sam Jones                28           Oncology
+    Regional Medical Center      PR0211     Taylor Davis                16         Pediatrics
+  Surgical Specialty Center      PR0334     Riley Miller                20        Orthopedics
+  Surgical Specialty Center      PR0283    Cameron Smith                 5           Oncology
