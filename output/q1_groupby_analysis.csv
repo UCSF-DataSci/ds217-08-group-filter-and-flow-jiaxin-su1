@@ -1,11 +1,11 @@
-facility_name,#unique_providers,avg_years_experience,total_service_charge
-Cardiology Specialty Center,48,18.684,304289.38
-City General Hospital,52,24.024952015355087,356237.89
-Community Health Clinic,58,17.547619047619047,358721.75
-Emergency Medical Center,46,21.56803455723542,293072.8
-Northside Urgent Care,48,20.106177606177607,310442.84
-Oncology Treatment Center,53,21.457960644007155,368222.45
-Pediatric Care Center,48,19.84543325526932,266795.12
-Primary Care Clinic,51,20.0,273644.49
-Regional Medical Center,44,18.614117647058823,261811.48
-Surgical Specialty Center,52,17.573556797020483,408187.49
+,facility_name,total_providers,avg_years_experience,total_service_charge,total_insurance_paid
+0,Cardiology Specialty Center,48,18.684,304289.38,242354.6
+1,City General Hospital,52,24.024952015355087,356237.89,284799.49
+2,Community Health Clinic,58,17.547619047619047,358721.75,286450.39
+3,Emergency Medical Center,46,21.56803455723542,293072.8,234265.39
+4,Northside Urgent Care,48,20.106177606177607,310442.84,249055.82
+5,Oncology Treatment Center,53,21.457960644007155,368222.45,297831.91
+6,Pediatric Care Center,48,19.84543325526932,266795.12,211133.94
+7,Primary Care Clinic,51,20.0,273644.49,219605.7
+8,Regional Medical Center,44,18.614117647058823,261811.48,210405.15
+9,Surgical Specialty Center,52,17.573556797020483,408187.49,327048.13
